@@ -5,5 +5,6 @@ Mis conocimientos apuntan hacia el desarrollo Back-End <img src="https://cdn.ico
 * SQL
 * HTML
 
-En la actualidad me encuentro capacitando en conocimientos, lenguajes y herramientas ( API rest | Java-Script | Django Rest Framework | Node.js ) que se encuentran en la demanda de mercado.
+En la actualidad me encuentro capacitando en conocimientos, lenguajes y herramientas que se encuentran en la demanda de mercado
+( API rest | Java-Script | Django Rest Framework | Node.js ) 
 
