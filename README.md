@@ -1,5 +1,6 @@
 ## Hi there 👋 my name is Javier, I'm a Jr. Software Developer 
 ### Apasionado y autodidacta en el estudio del desarrollo de software y el ecosistema IT 🎓
+
 ### En busqueda activa laboral 🔭 <a href="https://www.linkedin.com/in/javomorabaiz/">Conoceme!</a>
 Mis conocimientos apuntan hacia el desarrollo Back-End 💻 <br>
 * Python <img src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png" width="20" height="20">
