@@ -1,7 +1,7 @@
-## Hola 👋 Javier de este lado!, bienvenido a mi portafolio. 
-### Apasionado y autodidacta en el estudio del desarrollo de software y el ecosistema IT 🎓
+Hola 👋 Javier de este lado!, bienvenido a mi portafolio. 
+Apasionado y autodidacta en el estudio del desarrollo de software y el ecosistema IT 🎓
 
-### En busqueda activa laboral 🔭 <a href="https://www.linkedin.com/in/javomorabaiz/">Conoceme!</a>
+En busqueda activa laboral 🔭 <a href="https://www.linkedin.com/in/javomorabaiz/">Conoceme!</a>
 
 Mis conocimientos apuntan hacia el desarrollo Backend 💻 <br>
 
