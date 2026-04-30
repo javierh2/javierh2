@@ -1,36 +1,18 @@
 # 👋 Javier Mora Baiz
 
-💻 Backend Developer enfocado en Python y Java  
-🔐 Especializado en APIs REST, autenticación con JWT y lógica de negocio  
-🚀 Construyendo proyectos Full Stack con Spring Boot, React y Django  
+💻 Backend Developer  
+🔐 APIs REST · JWT · Lógica de negocio  
+🚀 Python · Django · Java · Spring Boot  
 
 ---
 
-## 🚀 En qué estoy trabajando
+🔍 Actualmente enfocado en backend y explorando IA
 
-- ⚙️ APIs con Django REST Framework y FastAPI  
-- ☕ Backend con Spring Boot (Java)  
-- 🗄️ Bases de datos relacionales (PostgreSQL)  
-- 🤖 Exploración de IA y LLMs  
+📫 https://www.linkedin.com/in/javomorabaiz/
 
 ---
 
-## 🧠 Enfoque técnico
-
-- 🧱 Arquitectura en capas  
-- 🔐 Seguridad y autenticación (JWT)  
-- 📅 Validación de lógica de negocio (ej: reservas)  
-- 🧪 Testing con mocks y aislamiento de dependencias  
-
----
-
-## 🛠️ Tecnologías principales
+## 🛠️ Stack
 
 🐍 Python · ☕ Java · ⚛️ React · 🌱 Spring Boot  
 🐘 PostgreSQL · 🐳 Docker · 🐧 Linux · 🔧 Git  
-
----
-
-## 📫 Contacto
-
-🔗 LinkedIn: https://www.linkedin.com/in/javomorabaiz/
