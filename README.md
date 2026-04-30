@@ -4,14 +4,11 @@
 🔐 REST APIs · JWT · Business logic  
 🚀 Python & Django/Flask · Java & Spring Boot  
 
----
-
 ⚡ Focused on backend development and exploring AI
 
 📫 https://www.linkedin.com/in/javomorabaiz/
 
 ---
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
