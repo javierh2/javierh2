@@ -2,7 +2,7 @@
 
 💻 Backend Developer building real-world systems  
 🔐 REST APIs · JWT · Business logic  
-🚀 Python & Django/Flask · Java & Spring Boot  
+🚀 Python & Django/FastAPI/Flask · Java & Spring Boot  
 
 ⚡ Focused on backend development and exploring AI
 
